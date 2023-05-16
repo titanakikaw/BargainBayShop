@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "email": "test2@email.com",
+      "password": "$2a$10$3W0p3voBXD0NLTyqj0zNsemImGbEBR1i9cqjwo1LT4m1Cw0wAN91q",
+      "fullname": "testserser",
+      "age": 132,
+      "gender": "Male",
+      "address": "asdasdas",
+      "cpassword": "12345678",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 6,
+      "title": "Rustic Wooden Chair",
+      "description": "This rustic wooden chair is perfect for any home with a vintage aesthetic. Made from high-quality wood, it is durable and stylish. It is perfect for your living room, dining room, or study.",
+      "image": "https://images.unsplash.com/photo-1566504113898-8a9c7170a14a",
+      "price": 79.99,
+      "category": "Furniture",
+      "brand": "Rustic Furniture Co."
+    },
+    {
+      "id": 7,
+      "title": "Leather Messenger Bag",
+      "description": "This leather messenger bag is perfect for carrying all your essentials. It has a spacious main compartment with multiple pockets to keep everything organized. The adjustable strap ensures a comfortable fit.",
+      "image": "https://images.unsplash.com/photo-1577899301208-e5d5c48a1d81",
+      "price": 129.99,
+      "category": "Accessories",
+      "brand": "Leather Co."
+    },
+    {
+      "id": 8,
+      "title": "Vintage Record Player",
+      "description": "This vintage record player is perfect for any music lover. It is made from high-quality materials and has a classic design that will complement any room. It has a built-in amplifier and speakers, so you can listen to your records right away.",
+      "image": "https://images.unsplash.com/photo-1519677100203-a0e668c924ee",
+      "price": 249.99,
+      "category": "Electronics",
+      "brand": "Vintage Audio"
+    },
+    {
+      "id": 9,
+      "title": "Modern Industrial Desk",
+      "description": "This modern industrial desk is perfect for any home office. It is made from high-quality materials and has a sleek, minimalist design. It has plenty of storage space for all your office supplies.",
+      "image": "https://images.unsplash.com/photo-1528791045269-17a9f9e316d6",
+      "price": 199.99,
+      "category": "Furniture",
+      "brand": "Modern Industrial Design Co."
+    },
+    {
+      "id": 10,
+      "title": "Smart Home Security Camera",
+      "description": "This smart home security camera is perfect for keeping your home safe and secure. It has a 1080p HD camera with night vision and motion detection. You can control it using your smartphone or voice commands.",
+      "image": "https://images.unsplash.com/photo-1556228728-2b651e10b9d9",
+      "price": 149.99,
+      "category": "Electronics",
+      "brand": "Smart Home Security Co."
+    },
+    {
+      "id": 11,
+      "title": "Smart Home Security Camera",
+      "description": "This smart home security camera is perfect for keeping your home safe and secure. It has a 1080p HD camera with night vision and motion detection. You can control it using your smartphone or voice commands.",
+      "image": "https://images.unsplash.com/photo-1556228728-2b651e10b9d9",
+      "price": 149.99,
+      "category": "Electronics",
+      "brand": "Smart Home Security Co."
+    }
+  ],
+  "carts": [
+    {
+      "id": "123tests",
+      "userid": 1,
+      "status": "pending",
+      "items": [
+        {
+          "id": 6,
+          "qty": 5
+        },
+        {
+          "id": 7,
+          "qty": 7
+        }
+      ],
+      "createdDate": "",
+      "updatedDate": ""
+    }
+  ]
+}
